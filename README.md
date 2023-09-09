@@ -1,6 +1,6 @@
 # str_matrix
 
-display text in shell dynamically.
+print text in shell dynamically.
 
 **Usage:**
 
