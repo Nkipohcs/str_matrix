@@ -1,3 +1,5 @@
+#!/bin/bash
+
 str_matrix() {
     local message="$1"
     for ((i = 0; i < ${#message}; i++)); do
@@ -6,3 +8,5 @@ str_matrix() {
     done
     echo ""
 }
+
+str_matrix "$1"
